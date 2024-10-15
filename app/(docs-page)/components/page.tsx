@@ -30,18 +30,11 @@ const appsDesign = [
     name: 'Clip-Path',
     imgSrc: preview.clippath,
   },
-
-  {
-    id: 'image-accordion',
-    url: '/components/image-accordions',
-    name: 'image-accordion',
-    imgSrc: preview.galleryNew,
-  },
   {
     id: 'image-reveal',
-    url: '/components/image-reveal',
-    name: 'Image Reveal',
-    imgSrc: preview.imagereveal,
+    url: '/components/product-cards',
+    name: 'Cards',
+    imgSrc: preview.card,
   },
 ];
 
