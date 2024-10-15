@@ -56,7 +56,10 @@ function Header() {
             <button
               className={`sm:flex hidden flex-shrink-0 items-center space-x-2 group  px-2 rounded-md bg-primary text-primary-foreground border`}
               onClick={() =>
-                window.open(`https://github.com/naymurdev/uilayout`, '_blank')
+                window.open(
+                  `https://github.com/naymurdev/mdx-starter-repo`,
+                  '_blank'
+                )
               }
             >
               <svg
@@ -74,20 +77,10 @@ function Header() {
                 <polygon points='12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2' />
               </svg>
               <span className='font-medium'>Star on github</span>
-
-              {/* {isLoading ? (
-        <span className="ml-2 inline-block h-4 w-4 animate-spin rounded-full border-2 border-gray-300 border-t-gray-600"></span>
-      ) : error ? (
-        <span className="ml-2 text-red-500">Error</span>
-      ) : (
-        <span className="ml-2 bg-primary-foreground px-2 py-0.5 rounded-full text-sm font-semibold text-primary">
-          {starCount?.toLocaleString()}
-        </span>
-      )} */}
             </button>
             <a
               target='_blank'
-              href='https://github.com/naymurdev/uilayout'
+              href='https://github.com/naymurdev/mdx-starter-repo'
               className='border w-10 flex-shrink-0  place-content-center rounded-md sm:hidden grid bg-primary text-primary-foreground'
             >
               <Github />
