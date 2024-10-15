@@ -77,17 +77,9 @@ export default async function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const isDev = process.env.NODE_ENV === 'development';
   return (
     <>
       <html lang='en' suppressHydrationWarning>
-        {/* {!isDev ? (
-        <Script
-          async
-          src='https://analytics.umami.is/script.js'
-          data-website-id='17e8fc96-321d-43a6-94e7-d571c4c66a04'
-        />
-      ) : null} */}
         <body className={poppins.className}>
           <Progressbar>
             <ThemeProvider attribute='class'>
