@@ -47,11 +47,11 @@ export function throttle(fn: (...args: any[]) => any, wait: number) {
 }
 
 export const siteConfig = {
-  name: 'ui-layout',
-  url: 'https://ui-layout.com',
-  ogImage: 'https://www.ui-layout.com/og.jpg',
+  name: 'UI-Layout-starter-kit',
+  url: 'https://uilayout-starter-repo.vercel.app/',
+  ogImage: 'https://uilayout-starter-repo.vercel.app/og.jpg',
   description:
-    'Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.',
+    'An open-source starter repo for those who want to create their own component library.',
   links: {
     twitter: 'https://twitter.com/naymur_dev',
     linkedin: 'https://www.linkedin.com/in/naymur-rahman',

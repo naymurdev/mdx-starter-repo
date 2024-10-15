@@ -97,10 +97,10 @@ function HeroSec() {
           </p>
           <div className='flex gap-2 justify-center items-center'>
             <a
-              href='/components'
+              href='https://www.ui-layout.com/'
               className='flex items-center gap-2 w-fit  text-white bg-gradient-to-l from-[#6175f8]  to-[#334cec] border sm:px-4 px-2 rounded-sm py-2 '
             >
-              Browse Component
+              Visit UILayout
               <MoveRight />
             </a>
             <a href='/get-started' className='sm:inline-block hidden'>
