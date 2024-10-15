@@ -31,97 +31,7 @@
           "parentlink": "buttons",
           "parentName": "Buttons"
         },
-        {
-          "componentName": "button-hover-3",
-          "filesrc": "components/button/btn-hover3.tsx",
-          "iframeSrc": "live-components/button-hover-3",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-4",
-          "filesrc": "components/button/btn-hover4.tsx",
-          "iframeSrc": "live-components/button-hover-4",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-5",
-          "filesrc": "components/button/btn-hover5.tsx",
-          "iframeSrc": "live-components/button-hover-5",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-6",
-          "filesrc": "components/button/btn-hover6.tsx",
-          "iframeSrc": "live-components/button-hover-6",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-7",
-          "filesrc": "components/button/btn-hover7.tsx",
-          "iframeSrc": "live-components/button-hover-7",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-8",
-          "filesrc": "components/button/btn-hover8.tsx",
-          "iframeSrc": "live-components/button-hover-8",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-9",
-          "filesrc": "components/button/btn-hover9.tsx",
-          "iframeSrc": "live-components/button-hover-9",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-10",
-          "filesrc": "components/button/btn-hover10.tsx",
-          "iframeSrc": "live-components/button-hover-10",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-11",
-          "filesrc": "components/button/btn-hover11.tsx",
-          "iframeSrc": "live-components/button-hover-11",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-12",
-          "filesrc": "components/button/btn-hover12.tsx",
-          "iframeSrc": "live-components/btn-hover12",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-13",
-          "filesrc": "components/button/btn-hover13.tsx",
-          "iframeSrc": "live-components/button-hover-13",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-hover-14",
-          "filesrc": "components/button/btn-hover14.tsx",
-          "iframeSrc": "live-components/button-hover-14",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
-        {
-          "componentName": "button-rotating-gradient",
-          "filesrc": "components/button/btn-rotating-bgGradient.tsx",
-          "iframeSrc": "live-components/btn-rotating-bgGradient",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
-        },
+
         {
           "componentName": "creative-button-1",
           "filesrc": "components/button/creative-btn1.tsx",
@@ -148,34 +58,6 @@
           "iframeSrc": "live-components/creative-clippath",
           "parentlink": "clip-path",
           "parentName": "Clip Path"
-        },
-        {
-          "componentName": "corporate-clippath",
-          "filesrc": "components/clip-path/clip-path-corporate.tsx",
-          "iframeSrc": "live-components/corporate-clippath",
-          "parentlink": "clip-path",
-          "parentName": "Clip Path"
-        },
-        {
-          "componentName": "symbolic-clippath",
-          "filesrc": "components/clip-path/clip-path-symbolic.tsx",
-          "iframeSrc": "live-components/symbolic-clippath",
-          "parentlink": "clip-path",
-          "parentName": "Clip Path"
-        },
-        {
-          "componentName": "creative-mask-clippath",
-          "filesrc": "components/clip-path/clip-path-creative-mask.tsx",
-          "iframeSrc": "live-components/creative-mask-clippath",
-          "parentlink": "clip-path",
-          "parentName": "Clip Path"
-        },
-        {
-          "componentName": "watersplash-clippath",
-          "filesrc": "components/clip-path/clip-path-water-splash.tsx",
-          "iframeSrc": "live-components/watersplash-clippath",
-          "parentlink": "clip-path",
-          "parentName": "Clip Path"
         }
       ],
       "type": "clip-path",
@@ -195,34 +77,6 @@
           "componentName": "productcard2",
           "filesrc": "components/card/product-card2.tsx",
           "iframeSrc": "live-components/productcard2",
-          "parentlink": "product-cards",
-          "parentName": "Product Cards"
-        },
-        {
-          "componentName": "productcard3",
-          "filesrc": "components/card/product-card3.tsx",
-          "iframeSrc": "live-components/productcard3",
-          "parentlink": "product-cards",
-          "parentName": "Product Cards"
-        },
-        {
-          "componentName": "productcard4",
-          "filesrc": "components/card/product-card4.tsx",
-          "iframeSrc": "live-components/productcard4",
-          "parentlink": "product-cards",
-          "parentName": "Product Cards"
-        },
-        {
-          "componentName": "productcard5",
-          "filesrc": "components/card/product-card5.tsx",
-          "iframeSrc": "live-components/productcard5",
-          "parentlink": "product-cards",
-          "parentName": "Product Cards"
-        },
-        {
-          "componentName": "productcard6",
-          "filesrc": "components/card/product-card6.tsx",
-          "iframeSrc": "live-components/productcard6",
           "parentlink": "product-cards",
           "parentName": "Product Cards"
         }
