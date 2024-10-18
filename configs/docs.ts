@@ -23,6 +23,13 @@ export const MainComponents = [
     component: 'creative',
   },
   {
+    href: '/components/demo',
+    name: 'Demo Component ',
+    new: true,
+    component: 'Demo',
+  },
+
+  {
     href: '/components/motion-number',
     name: 'Motion Number',
     new: true,

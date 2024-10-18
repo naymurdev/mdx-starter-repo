@@ -1,6 +1,19 @@
 {
   "dataArray": [
     {
+      "name": "demo",
+      "componentArray": [
+        {
+          "componentName": "democomponent",
+          "filesrc": "components/demo/index.tsx",
+          "iframeSrc": "live-components/democomponent",
+          "parentlink": "buttons",
+          "parentName": "Buttons"
+        }
+      ],
+      "type": "demo"
+    },
+    {
       "name": "Buttons",
       "componentArray": [
         {
