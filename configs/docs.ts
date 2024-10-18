@@ -13,6 +13,11 @@ export const SpecialComponents = [
 
   { href: '/components/footers', name: 'Footers' },
   { href: '/components/horizontal-scroll', name: 'Horizontal Scroll' },
+  {
+    href: '/components/demo',
+    name: 'Demo Components',
+    new: true,
+  },
 ];
 export const MainComponents = [
   {
@@ -21,12 +26,6 @@ export const MainComponents = [
 
     new: true,
     component: 'creative',
-  },
-  {
-    href: '/components/demo',
-    name: 'Demo Component ',
-    new: true,
-    component: 'Demo',
   },
 
   {

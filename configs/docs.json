@@ -7,8 +7,8 @@
           "componentName": "democomponent",
           "filesrc": "components/demo/index.tsx",
           "iframeSrc": "live-components/democomponent",
-          "parentlink": "buttons",
-          "parentName": "Buttons"
+          "parentlink": "demo",
+          "parentName": "demo"
         }
       ],
       "type": "demo"
